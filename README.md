@@ -9,7 +9,7 @@ essa ferramenta em python foi desenvolvida como teste para criação de senhas n
 
 ##### Objetivos e funções do projeto e seus status 
 
-|Concluido (SIM/PENDENTE/CCANCELADO)|Função / recurso                                                                             | Versao publicada |
+|Concluído (SIM/PENDENTE/CANCELADO)|Função / recurso                                                                              | Versão publicada |
 |-----------------------------------|---------------------------------------------------------------------------------------------|------------------|
 |PENDENTE                           | Gerar senhas aleatórias e com nível de segurança razoável                                   |                  |
 |PENDENTE                           | Pedir ao usuário a quantidade de caracteres máxima                                          |                  |
