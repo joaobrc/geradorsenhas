@@ -1,7 +1,6 @@
 # Projeto 01 - Gerador de Senhas 
 
----
----
+
 ### Descrição da Ferramenta : 
 ---
 Imagina um cenário aonde você tem que gerenciar as senhas de diversas pessoas pra diversas coisas diferentes e tem que ficar tirando da imaginação uma senha nova pra cada vez que cria um acesso ou que tem que atualizar esse acesso... imagina isso agora pra uma empresa com mais de 30 usuários... consegue ver o caos ? 
