@@ -45,7 +45,7 @@ def Menu_opcoes_invalidas():
     return texto
 
 
-def validar_opcoes(opcao,menor,maior):
+def validar_opcoes(opcao,menor=0,maior=1000):
     try:
         if int(opcao) not in range(menor,maior+1):
             print("a opcao digitada foi : {} não existem parametros pra essa opção escolha uma opção entre {} e {}.".format(opcao, menor, maior))
@@ -62,3 +62,5 @@ def limpar_tela():
     os.system("CLS")
 
 
+def Processando():
+    return "Processando Dados e configurações"
